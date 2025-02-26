@@ -48,3 +48,40 @@ export default tseslint.config({
   },
 })
 ```
+# Register-Karo App
+
+Register-Karo is a responsive web application built with React, TypeScript, and Vite. The app features multiple sections including a Hero, Services, Video, Testimonials, FAQ, and more—all designed with Tailwind CSS and interactive animations powered by Framer Motion.
+
+## Table of Contents
+
+- [Features](#features)
+- [Getting Started](#getting-started)
+- [Project Structure](#project-structure)
+- [Smooth Scrolling Behavior](#smooth-scrolling-behavior)
+- [ESLint and Code Quality](#eslint-and-code-quality)
+- [Production Build and Deployment](#production-build-and-deployment)
+- [Additional Resources](#additional-resources)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Features
+
+- **Responsive Design:** Built with Tailwind CSS to ensure a modern, responsive layout.
+- **Interactive Animations:** Integrated Framer Motion for smooth transitions and animations.
+- **Client-Side Rendering:** Uses the `"use client"` directive for client-only code execution.
+- **Smooth Scrolling:** Implemented smooth scroll behavior for an enhanced user experience.
+- **Modular Components:** Organized into reusable React components such as Navbar, Hero, Services, VideoSection, and more.
+
+## Getting Started
+
+### Prerequisites
+
+- [Node.js](https://nodejs.org/) (version 14 or above)
+- npm (comes with Node.js)
+
+### Installation
+
+1. **Clone the Repository:**
+
+   ```bash
+   git clone https://github.com/your-username/register-karo.git
