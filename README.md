@@ -84,4 +84,4 @@ Register-Karo is a responsive web application built with React, TypeScript, and 
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/register-karo.git
+   git clone https://github.com/Kapil690789/register-kart
